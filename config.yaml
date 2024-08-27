@@ -6,4 +6,4 @@ kubernetes:
   version: v1.23.6
 
 images:
-  - registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver：v1.21.1
+  - registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver:v1.21.1
